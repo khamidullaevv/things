@@ -5,4 +5,4 @@ day 3 ragebait 3
 day 4 ragebait 4
 day 5 ragebait 5
 day 6 ragebait 6
-day 7
+day 7 ragebait 7
