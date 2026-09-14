@@ -8,3 +8,4 @@ day 6 ragebait 6
 day 7 ragebait 7
 day 8 ragebait 8
 day 9 ragebait 9
+day 10
